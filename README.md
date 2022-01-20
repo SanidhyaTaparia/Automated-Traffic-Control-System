@@ -10,11 +10,11 @@ Overspeeding and rash driving is a major issue in our country which leads to man
 
 - We designed an electronic system which consisting of arduino micro-controller, bluetooth module and various sensors. This electronic system can be installed in the vehicle which will provide us vehicle details like its speed. You can see the proteus simulation in the image below
 
-![](Proteus.png)
+![](images/Proteus.png)
 
 - We designed an android app on [MIT App Inventor](https://appinventor.mit.edu/) which will be installed on driver's mobile phone. This app will be connected to the vehicle via bluetooth and will get notified whenever vehicle's speed exceeds the speed limit. You can see a snap of the app below
 
-![](App.png)
+![](images/App.png)
 
 ## How it works
 
