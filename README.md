@@ -22,7 +22,7 @@ Whenever the micro-controller detects overspeeding, it displays a warning on the
 
 The app also has SOS feature which can be used by driver to contact police authorities in case of road emergencies.
 
-This was our overall project for the event.
+This was our overall project for the event. Simulation explanation video is [here](https://drive.google.com/file/d/14JcoLLE8V8_LEhRiyUDocJth_10loPWa/view?usp=sharing)
 
 ## Team
 
